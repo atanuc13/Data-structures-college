@@ -1,2 +1,3 @@
 # Data-structures
-Data structure programs for college
+
+Data structure programs for college usage.
